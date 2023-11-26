@@ -1,0 +1,47 @@
+
+#cont{
+    background-color: black;
+    margin-top:0px;
+    margin-left: 350px;
+    border: 2px solid black;
+    width: 652px;
+    display: flex;
+    flex-direction:row ;
+    flex-wrap: wrap;
+}.abc{
+    display: inline-block;
+    height: 80px;
+    width: 80px;
+    color:  black;
+    background-color: black;
+    margin: 0.4px;
+    border: 2px solid white;
+}
+.abc2{
+    display: inline-block;
+    height: 80px;
+    width: 80px;
+    color: rgb(177, 75, 75);;
+    background-color: rgb(177, 75, 75);
+    margin: 0.4px;
+    border: 2px solid white;
+}
+span{
+    text-align: center;
+    display: flex;
+    flex-direction: row; 
+
+}
+i{
+    margin-top: 10px;
+   
+}
+.bl{
+    color: rgb(98, 101, 100);
+}
+.wh{
+color: antiquewhite;
+}
+/* .cc{
+    color: inherit;
+} */
